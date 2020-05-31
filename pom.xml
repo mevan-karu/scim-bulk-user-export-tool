@@ -43,7 +43,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        org.wso2.scim.bulk.export.Main
+                                        org.wso2.scim.bulk.export.BulkExportUsers
                                     </mainClass>
                                 </manifest>
                             </archive>
